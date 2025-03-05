@@ -12,10 +12,11 @@
 
 ## Personal Projects  
 
-- **[The Economic Management and Organization of a Cinema Using Relational Databases](cinema_project.pdf)** – This project is a relational database system designed to manage the economic and operational aspects of a cinema. It handles customer records, movie scheduling, reservations, ticketing, and financial tracking. The database schema consists of multiple interconnected tables, enforcing data integrity through primary and foreign keys.  
+- **[The Economic Management and Organization of a Cinema Using Relational Databases](cinema_project.pdf)**
+     This project is a relational database system designed to manage the economic and operational aspects of a cinema. It handles customer records, movie scheduling, reservations, ticketing, and financial tracking. The database schema consists of multiple interconnected tables, enforcing data integrity through primary and foreign keys.  
 
-  The implementation includes various SQL operations such as data definition (`CREATE`, `ALTER`), data manipulation (`INSERT`, `UPDATE`, `DELETE`), and complex queries (`SELECT` with `JOIN`, subqueries, `GROUP BY`, `HAVING`). Indexes are used to optimize performance, while views provide simplified data access. Additional features include sequences for unique ID generation and synonyms for aliasing tables. Advanced SQL functions like `CASE`, `DECODE`, and date calculations enhance query flexibility.  
+    The implementation includes various SQL operations such as data definition (`CREATE`, `ALTER`), data manipulation (`INSERT`, `UPDATE`, `DELETE`), and complex queries (`SELECT` with `JOIN`, subqueries, `GROUP BY`, `HAVING`). Indexes are used to optimize performance, while views provide simplified data access. Additional features include sequences for unique ID generation and synonyms for aliasing tables. Advanced SQL functions like `CASE`, `DECODE`, and date calculations enhance query flexibility.  
 
-  Through this project, I gained hands-on experience in designing efficient relational database structures, ensuring data consistency, and optimizing query performance for real-world business applications.  
+    Through this project, I gained hands-on experience in designing efficient relational database structures, ensuring data consistency, and optimizing query performance for real-world business applications.  
 
 📎 **[Project File - cinema_project.pdf](cinema_project.pdf)**  
